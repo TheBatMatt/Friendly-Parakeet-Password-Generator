@@ -17,8 +17,10 @@ Case: UPPER
 Numbers: No
 Symbols: No
 
-It's easy to use, intuitive
+It's easy to use, intuitive and worth the time if you're having trouble coming up with a password that is safe and secure!
 
 
 Feel free to reach out to me at:
 tedmjablonowski@gmail.com
+
+[!screenshot] (# Friendly Parakeet Password Generator)
