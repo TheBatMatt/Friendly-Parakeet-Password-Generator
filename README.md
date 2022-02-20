@@ -12,10 +12,10 @@ This password Generator creates a password based around the criteria that you yo
 
 Clicking cancel will set everything to their defauts which is as follows:
 
-Length: 8 characters
-Case: UPPER
-Numbers: No
-Symbols: No
+* Length: 8 characters
+* Case: UPPER
+* Numbers: No
+* Symbols: No
 
 It's easy to use, intuitive and worth the time if you're having trouble coming up with a password that is safe and secure!
 
